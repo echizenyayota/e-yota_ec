@@ -61,6 +61,9 @@ define('DB_COLLATE', '');
  define('LOGGED_IN_SALT',   'c-ep3WtLs+Dko##Xp_d0<?Q/S$hN%o`U7i21z-Y%+w;dDAF4$c|&KHoV$4iE0WMa');
  define('NONCE_SALT',       'qtCv/S>$rx5l_#=+([$jq4l]tOS1RA*WCeLu|=quxW.7p||t2fgsi01}`,MR`+Q|');
 
+// https://qiita.com/m-shin/items/550846c23756d4b15cb2
+// define('FS_METHOD', 'direct');
+
 /**#@-*/
 
 /**
