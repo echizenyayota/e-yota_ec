@@ -1,0 +1,149 @@
+12-30-2017 @ 19:11:07 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [METHOD] => GetPalDetails
+    [VERSION] => 120.0
+    [USER] => h.fqui35_api1.gmail.com
+    [PWD] => K3SDWKCTGCCHCZVR
+    [SIGNATURE] => A9q33sUt.ixnFNZ.aBeeN0xayU2hAFFBa4NZsRsMkFNQ0zEMehSYvsfU
+)
+
+12-30-2017 @ 19:11:09 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [PAL] => GLHY6Q4GJ6JMN
+    [LOCALE] => ja_JP
+    [TIMESTAMP] => 2017-12-30T10:11:09Z
+    [CORRELATIONID] => 6d40b5af12ae8
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 39206242
+)
+
+12-30-2017 @ 19:17:38 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => e-yota-ec
+    [RETURNURL] => https://e-yota-ec.com/?page_id=12&woo-paypal-return=true
+    [CANCELURL] => https://e-yota-ec.com/?page_id=11&woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => JPY
+    [PAYMENTREQUEST_0_AMT] => 3000
+    [PAYMENTREQUEST_0_ITEMAMT] => 3000
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => さくらのVPSでWordPressサイトをイチから構築する方法を教えます。
+    [L_PAYMENTREQUEST_0_DESC0] => ブログ記事の内容にそって、少しずつWordPressサイトの環境構築のレッスンを行います。
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 3000
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => h.fqui35_api1.gmail.com
+    [PWD] => K3SDWKCTGCCHCZVR
+    [SIGNATURE] => A9q33sUt.ixnFNZ.aBeeN0xayU2hAFFBa4NZsRsMkFNQ0zEMehSYvsfU
+)
+
+12-30-2017 @ 19:17:39 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-2GU40883GH247640P
+    [TIMESTAMP] => 2017-12-30T10:17:39Z
+    [CORRELATIONID] => 6351519786b3d
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 40680762
+)
+
+12-30-2017 @ 19:19:02 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => e-yota-ec
+    [RETURNURL] => https://e-yota-ec.com/?page_id=12&woo-paypal-return=true
+    [CANCELURL] => https://e-yota-ec.com/?page_id=11&woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => JPY
+    [PAYMENTREQUEST_0_AMT] => 3000
+    [PAYMENTREQUEST_0_ITEMAMT] => 3000
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => さくらのVPSでWordPressサイトをイチから構築する方法を教えます。
+    [L_PAYMENTREQUEST_0_DESC0] => ブログ記事の内容にそって、少しずつWordPressサイトの環境構築のレッスンを行います。
+    [L_PAYMENTREQUEST_0_QTY0] => 1
+    [L_PAYMENTREQUEST_0_AMT0] => 3000
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => h.fqui35_api1.gmail.com
+    [PWD] => K3SDWKCTGCCHCZVR
+    [SIGNATURE] => A9q33sUt.ixnFNZ.aBeeN0xayU2hAFFBa4NZsRsMkFNQ0zEMehSYvsfU
+)
+
+12-30-2017 @ 19:19:04 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-33S21022V9354892E
+    [TIMESTAMP] => 2017-12-30T10:19:04Z
+    [CORRELATIONID] => ea42f0b6f1cdb
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 40680762
+)
+
+01-01-2018 @ 13:31:09 - WC_Gateway_PPEC_Client::_request: remote request to https://api-3t.paypal.com/nvp with params: Array
+(
+    [LOGOIMG] => 
+    [HDRIMG] => 
+    [PAGESTYLE] => 
+    [BRANDNAME] => e-yota-ec
+    [RETURNURL] => https://e-yota-ec.com/?page_id=12&woo-paypal-return=true
+    [CANCELURL] => https://e-yota-ec.com/?page_id=11&woo-paypal-cancel=true
+    [LANDINGPAGE] => Login
+    [SOLUTIONTYPE] => Sole
+    [PAYMENTREQUEST_0_PAYMENTACTION] => sale
+    [PAYMENTREQUEST_0_INSURANCEAMT] => 0
+    [PAYMENTREQUEST_0_HANDLINGAMT] => 0
+    [PAYMENTREQUEST_0_CUSTOM] => 
+    [PAYMENTREQUEST_0_INVNUM] => 
+    [PAYMENTREQUEST_0_CURRENCYCODE] => JPY
+    [PAYMENTREQUEST_0_AMT] => 6000
+    [PAYMENTREQUEST_0_ITEMAMT] => 6000
+    [PAYMENTREQUEST_0_SHIPPINGAMT] => 0
+    [PAYMENTREQUEST_0_TAXAMT] => 0
+    [PAYMENTREQUEST_0_SHIPDISCAMT] => 0
+    [NOSHIPPING] => 0
+    [L_PAYMENTREQUEST_0_NAME0] => さくらのVPSでWordPressサイトをイチから構築する方法を教えます。
+    [L_PAYMENTREQUEST_0_DESC0] => ブログ記事の内容にそって、少しずつWordPressサイトの環境構築のレッスンを行います。
+    [L_PAYMENTREQUEST_0_QTY0] => 2
+    [L_PAYMENTREQUEST_0_AMT0] => 3000
+    [METHOD] => SetExpressCheckout
+    [VERSION] => 120.0
+    [USER] => h.fqui35_api1.gmail.com
+    [PWD] => K3SDWKCTGCCHCZVR
+    [SIGNATURE] => A9q33sUt.ixnFNZ.aBeeN0xayU2hAFFBa4NZsRsMkFNQ0zEMehSYvsfU
+)
+
+01-01-2018 @ 13:31:11 - WC_Gateway_PPEC_Client::_process_response: acknowleged response body: Array
+(
+    [TOKEN] => EC-90W256274T211523G
+    [TIMESTAMP] => 2018-01-01T04:31:10Z
+    [CORRELATIONID] => d4c661a5a843f
+    [ACK] => Success
+    [VERSION] => 120.0
+    [BUILD] => 40680762
+)
+
